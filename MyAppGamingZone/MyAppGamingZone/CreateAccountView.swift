@@ -104,6 +104,7 @@ struct CreateAccountView: View {
                 }
                 .frame(maxWidth: .infinity, alignment: .center)
             }
+            .padding()
             .background(.black)
         }
         .alert(isPresented: $isShowingSuccessMessage) {
