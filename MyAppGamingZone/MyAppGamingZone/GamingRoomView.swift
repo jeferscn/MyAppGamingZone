@@ -12,13 +12,16 @@ struct GamingRoomView: View {
     @State var callJokenPoGameView = false
     
     var body: some View {
+        
         NavigationView {
             if callJokenPoGameView {
                 
                 JokenPoGameView()
+                EmptyView()
             } else if callGlassBridgeGameView {
                 
                 GlassBridgeGameView()
+                EmptyView()
             } else {
                 
                 ScrollView {

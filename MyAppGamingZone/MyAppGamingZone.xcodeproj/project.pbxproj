@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33D3DAEA2AD0F3BC00D81F29 /* WinnerScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D3DAE92AD0F3BC00D81F29 /* WinnerScreenView.swift */; };
 		33DD2D672AC8CD8600640E76 /* GamingRoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DD2D662AC8CD8600640E76 /* GamingRoomView.swift */; };
 		33EF510B2AC886A200AECF64 /* MyAppGamingZoneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33EF510A2AC886A200AECF64 /* MyAppGamingZoneApp.swift */; };
 		33EF510F2AC886A400AECF64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33EF510E2AC886A400AECF64 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		33D3DAE92AD0F3BC00D81F29 /* WinnerScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerScreenView.swift; sourceTree = "<group>"; };
 		33DD2D662AC8CD8600640E76 /* GamingRoomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamingRoomView.swift; sourceTree = "<group>"; };
 		33EF51072AC886A200AECF64 /* MyAppGamingZone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyAppGamingZone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33EF510A2AC886A200AECF64 /* MyAppGamingZoneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppGamingZoneApp.swift; sourceTree = "<group>"; };
@@ -71,11 +73,12 @@
 				33DD2D662AC8CD8600640E76 /* GamingRoomView.swift */,
 				33EF51212AC88BFC00AECF64 /* Utils.swift */,
 				33F9D3B02ACB774F00A3686A /* JokenPoGameView.swift */,
+				33F9D3B22ACB829700A3686A /* GlassBridgeGameView.swift */,
+				33D3DAE92AD0F3BC00D81F29 /* WinnerScreenView.swift */,
 				33EF51152AC886A400AECF64 /* MyAppGamingZone.xcdatamodeld */,
 				33EF510E2AC886A400AECF64 /* Assets.xcassets */,
 				33EF51132AC886A400AECF64 /* Persistence.swift */,
 				33EF51102AC886A400AECF64 /* Preview Content */,
-				33F9D3B22ACB829700A3686A /* GlassBridgeGameView.swift */,
 			);
 			path = MyAppGamingZone;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				33EF51172AC886A400AECF64 /* MyAppGamingZone.xcdatamodeld in Sources */,
 				33EF51222AC88BFC00AECF64 /* Utils.swift in Sources */,
 				33F9D3B12ACB774F00A3686A /* JokenPoGameView.swift in Sources */,
+				33D3DAEA2AD0F3BC00D81F29 /* WinnerScreenView.swift in Sources */,
 				33EF510B2AC886A200AECF64 /* MyAppGamingZoneApp.swift in Sources */,
 				33DD2D672AC8CD8600640E76 /* GamingRoomView.swift in Sources */,
 				33EF51202AC88BF000AECF64 /* LoginScreenView.swift in Sources */,

@@ -3,26 +3,10 @@
    version = "1.0">
    <ContextStates>
       <ContextState
-         contextName = "GlassBridgeGameView.groundTiles.modify:GlassBridgeGameView.swift">
+         contextName = "GlassBridgeGameView.configureSteps():GlassBridgeGameView.swift">
          <PersistentStrings>
             <PersistentString
-               value = "groundTiles">
-            </PersistentString>
-         </PersistentStrings>
-      </ContextState>
-      <ContextState
-         contextName = "GlassBridgeGameView.body.getter:GlassBridgeGameView.swift">
-         <PersistentStrings>
-            <PersistentString
-               value = "isSelectedButton10 &amp;&amp; gameOver">
-            </PersistentString>
-         </PersistentStrings>
-      </ContextState>
-      <ContextState
-         contextName = "GlassBridgeGameView.fillGroundTiles():GlassBridgeGameView.swift">
-         <PersistentStrings>
-            <PersistentString
-               value = "groundTiles">
+               value = "button10">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
@@ -35,7 +19,53 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
+         contextName = "closure #1 in GlassBridgeGameView.body.getter:GlassBridgeGameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerWin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GlassBridgeGameView.body.getter:GlassBridgeGameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isSelectedButton10 &amp;&amp; gameOver">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GlassBridgeGameView.groundTiles.modify:GlassBridgeGameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "groundTiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "closure #2 in closure #1 in closure #1 in closure #1 in closure #1 in GlassBridgeGameView.body.getter:GlassBridgeGameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "groundTiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GlassBridgeGameView.verifyStepWinLose(tileGroundPosition:):GlassBridgeGameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameOver">
+            </PersistentString>
+            <PersistentString
+               value = "stepNumber">
+            </PersistentString>
+            <PersistentString
+               value = "playerWin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GlassBridgeGameView.fillGroundTiles():GlassBridgeGameView.swift">
          <PersistentStrings>
             <PersistentString
                value = "groundTiles">
