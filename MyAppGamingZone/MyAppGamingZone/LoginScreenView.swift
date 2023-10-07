@@ -25,6 +25,7 @@ struct LoginScreenView: View {
         NavigationView {
             if isLoggedIn {
                 GamingRoomView()
+                EmptyView()
             } else {
                 VStack {
                     Image(systemName: "gamecontroller.fill")
