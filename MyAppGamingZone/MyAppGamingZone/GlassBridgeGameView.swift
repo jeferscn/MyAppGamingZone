@@ -247,7 +247,7 @@ struct GlassBridgeGameView: View {
     private func showShoePrint() -> some View {
         
         return Image(systemName: "shoeprints.fill")
-            .font(.system(size: 100))
+            .font(.system(size: 60))
             .foregroundColor(.green)
     }
 }
